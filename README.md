@@ -1,4 +1,8 @@
-# Immutable Array/Object Patterns
+# Immutable JavaScript Array & Object Patterns
+
+## Purpose
+- Source code for: https://youtube.com/watch?v=djhrfveeBbs
+- Several array/object patterns I created to help with writing clean immutable JavaScript code.
 
 ## Prerequisites
 
